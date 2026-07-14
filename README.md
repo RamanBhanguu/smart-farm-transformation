@@ -3,8 +3,9 @@
 Applying operations, supply chain, analytics, automation, and AI concepts to improve a traditional family farm through real-world projects.
 ## Overview
 
-Smart Farm Transformation is a long-term case study based on my family's traditional farm.
-The purpose of this project is to apply operations management, supply chain, business analytics, automation, and AI concepts to real business challenges while developing practical, transferable professional skills.
+Smart Farm Transformation is a long-term learning project that uses my family's traditional farm as a real-world business case study.
+
+The project allows me to explore operations management, supply chain, business analytics, automation, and AI concepts by analyzing existing processes and designing practical improvement ideas. The focus is on developing transferable professional skills rather than implementing every proposed solution on the farm.
 ## Objectives
 
 - Improve operational visibility
