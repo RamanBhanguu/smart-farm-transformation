@@ -1,4 +1,4 @@
-# smart-farm-transformation
+# Smart Farm Transformation
 
 Applying operations, supply chain, analytics, automation, and AI concepts to improve a traditional family farm through real-world projects.
 ## Overview
@@ -13,7 +13,7 @@ The purpose of this project is to apply operations management, supply chain, bus
 - Develop business dashboards
 - Explore automation opportunities
 - Create portfolio-ready business projects
-## Technologies (Future)
+## Future Technologies
 
 - Excel
 - SQL
@@ -23,4 +23,4 @@ The purpose of this project is to apply operations management, supply chain, bus
 - GitHub
 ## Project Status
 
-Planning & Foundation
+Planning Phase
