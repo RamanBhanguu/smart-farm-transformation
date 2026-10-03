@@ -24,47 +24,44 @@ The focus is on building practical, documented projects that demonstrate how bus
 
 ## Featured Projects
 ### 1. Smart Farm Inventory Management
-Focus: Inventory visibility, stock monitoring, and inventory reporting.
+
+Focus:
+Inventory visibility, stock monitoring, and inventory reporting.
 
 This project explores how inventory data can be organized and analyzed to support better stock control and operational decisions.
 
-Areas of focus
+Areas of focus:
+- Inventory data organization and analysis
+- Stock-level monitoring
+- Inventory KPIs and reporting
+- Power BI dashboard development
+- Potential improvements to inventory tracking
 
-Inventory data organization and analysis
+Tools: 
+Power BI and the data preparation or analysis tools documented in the project.
 
-Stock-level monitoring
-
-Inventory KPIs and reporting
-
-Power BI dashboard development
-
-Potential improvements to inventory tracking
-
-Tools: Power BI and the data preparation or analysis tools documented in the project.
-
-Project status: Dashboard screenshots available. Project documentation and repository setup are pending. 
+Project status: 
+Dashboard screenshots available. Project documentation and repository setup are pending. 
 
 ### 2. Agricultural Procurement & Supply Chain Analytics
 
-Focus: Procurement visibility, supplier analysis, and supply chain performance.
+Focus: 
+Procurement visibility, supplier analysis, and supply chain performance.
 
 This project explores how procurement and supply chain data can be structured to support purchasing decisions and operational reporting.
 
-Areas of focus
+Areas of focus:
+- Procurement data analysis
+- Supplier-related metrics
+- Purchasing and spending visibility
+- Delivery and supply chain performance indicators, where data is available
+- Power BI reporting and visualization
 
-Procurement data analysis
+Tools: 
+Power BI and the data preparation or analysis tools documented in the project.
 
-Supplier-related metrics
-
-Purchasing and spending visibility
-
-Delivery and supply chain performance indicators, where data is available
-
-Power BI reporting and visualization
-
-Tools: Power BI and the data preparation or analysis tools documented in the project.
-
-Project status: Dashboard screenshots available. Project documentation and repository setup are pending.
+Project status: 
+Dashboard screenshots available. Project documentation and repository setup are pending.
 
 ## Technical Skills
 
@@ -117,5 +114,5 @@ This repository serves as the central overview of the Smart Farm Transformation 
 
 The initiative is ongoing. Project descriptions, technical skills, findings, and implementation status will be updated as work progresses.
 
-## Project theme: 
+## Project Themes: 
 Operations | Supply Chain | Inventory | Procurement | Business Analytics | Process Improvement
