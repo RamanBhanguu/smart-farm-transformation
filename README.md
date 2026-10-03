@@ -1,6 +1,6 @@
 # Smart Farm Transformation
 
-Applying operations management, supply chain principles, and business analytics,  and AI concepts to explore practical improvements in a traditional family farm.
+Applying operations management, supply chain principles, business analytics, and AI/Automation concepts to explore practical improvements in a traditional family farm.
 
 ## Overview
 
@@ -23,7 +23,7 @@ The focus is on building practical, documented projects that demonstrate how bus
 - Develop a portfolio demonstrating the application of analytics to operational problems.
 
 ## Featured Projects
-# 1. Smart Farm Inventory Management
+### 1. Smart Farm Inventory Management
 Focus: Inventory visibility, stock monitoring, and inventory reporting.
 
 This project explores how inventory data can be organized and analyzed to support better stock control and operational decisions.
@@ -44,7 +44,7 @@ Tools: Power BI and the data preparation or analysis tools documented in the pro
 
 Project status: Dashboard screenshots available. Project documentation and repository setup are pending. 
 
-# 2. Agricultural Procurement & Supply Chain Analytics
+### 2. Agricultural Procurement & Supply Chain Analytics
 
 Focus: Procurement visibility, supplier analysis, and supply chain performance.
 
@@ -66,7 +66,7 @@ Tools: Power BI and the data preparation or analysis tools documented in the pro
 
 Project status: Dashboard screenshots available. Project documentation and repository setup are pending.
 
-# Technical Skills
+## Technical Skills
 
 Tools and technologies are being developed and applied through individual projects.
 
@@ -82,7 +82,7 @@ Developing Skills: Python, Pandas, APIs, and workflow automation
 
 The tools used in each project will be documented according to the work actually completed.
 
-# Project Approach
+## Project Approach
 
 Each project follows a practical workflow:
 
@@ -100,7 +100,7 @@ Document findings, limitations, and potential business recommendations.
 
 Identify opportunities for further improvement or automation.
 
-# Roadmap
+## Roadmap
 
 - Improve the documentation and organization of project repositories.
 - Document the Smart Farm Inventory Management project.
@@ -117,5 +117,5 @@ This repository serves as the central overview of the Smart Farm Transformation 
 
 The initiative is ongoing. Project descriptions, technical skills, findings, and implementation status will be updated as work progresses.
 
-# Project theme: 
+## Project theme: 
 Operations | Supply Chain | Inventory | Procurement | Business Analytics | Process Improvement
