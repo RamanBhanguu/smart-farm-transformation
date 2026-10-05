@@ -1,118 +1,147 @@
 # Smart Farm Transformation
 
-Applying operations management, supply chain principles, business analytics, and AI/Automation concepts to explore practical improvements in a traditional family farm.
+A practical transformation initiative exploring how traditional agricultural operations can evolve through structured data, business analytics, process improvement, automation, and modern technology.
 
 ## Overview
 
-Smart Farm Transformation is a long-term, project-based learning initiative that uses my family's traditional farm as a real-world business case study.
+Smart Farm Transformation is a long-term, project-based initiative using a family farm as a real-world business case study.
 
-The project explores how better recordkeeping, inventory management, procurement visibility, operational reporting, automation, and data-driven decision-making can support agricultural operations.
+The initiative explores how agricultural operations can improve through:
 
-It connects my practical interest in operations and supply chain management with developing technical skills in Excel, SQL, PostgreSQL, Power BI, and related data tools.
+- Better operational recordkeeping
+- Structured inventory management
+- Procurement visibility
+- Supply chain analysis
+- Business intelligence and reporting
+- Process improvement
+- Automation opportunities
+- Data-informed decision-making
 
-The focus is on building practical, documented projects that demonstrate how business problems can be translated into structured analysis and potential operational improvements.
+The work connects practical operations and supply chain knowledge with developing technical capabilities in Excel, SQL, PostgreSQL, Power BI, and related data technologies.
 
-## Business Objectives
+The focus is on solving practical business problems, documenting the analytical process, and demonstrating how operational data can support better decisions.
 
-- Improve visibility into farm operations and business records.
-- Explore ways to digitize operational data and recordkeeping.
-- Develop structured inventory management and tracking approaches.
-- Analyze agricultural procurement and supply chain activities.
-- Build Power BI dashboards to communicate relevant business information.
-- Identify opportunities for more consistent reporting and process improvement.
-- Develop a portfolio demonstrating the application of analytics to operational problems.
+## Transformation Approach
+
+The initiative follows a practical progression:
+
+**Operations → Data → Analysis → Reporting → Process Improvement → Automation → Future Data Architecture**
+
+The current work focuses primarily on data organization, SQL analysis, Power BI reporting, and operational decision support.
+
+Future stages will explore automation, ERP integration, modern data platforms, and broader transformation architecture.
 
 ## Featured Projects
-### 1. Smart Farm Inventory Management
+### 1. Smart Farm SQL
 
-Focus:
-Inventory visibility, stock monitoring, and inventory reporting.
+A PostgreSQL and SQL project focused on structuring agricultural operational data and answering business questions through analytical queries.
 
-This project explores how inventory data can be organized and analyzed to support better stock control and operational decisions.
+Focus areas:
 
-Areas of focus:
-- Inventory data organization and analysis
-- Stock-level monitoring
-- Inventory KPIs and reporting
+- Relational database design
+- PostgreSQL
+- SQL analysis
+- Inventory analysis
+- Customer and order analysis
+- KPI-oriented reporting
+
+Repository:
+
+[Smart Farm SQL](https://github.com/RamanBhanguu/smart-farm-sql)
+
+### 2. Smart Farm Inventory Management — Power BI
+
+An inventory analytics project focused on stock visibility, inventory value, replenishment risk, and purchasing priorities.
+
+Focus areas:
+
+- Inventory data preparation
+- Power Query
+- Data quality validation
 - Power BI dashboard development
-- Potential improvements to inventory tracking
+- DAX measures
+- Inventory KPIs
+- Reorder analysis
+- Business recommendations
 
-Tools: 
-Power BI and the data preparation or analysis tools documented in the project.
+Key result:
 
-Project status: 
-Dashboard screenshots available. Project documentation and repository setup are pending. 
+The analysis identified 5 low-stock items and an estimated replenishment requirement of 47,945, with Rice Seed representing the largest replenishment priority.
 
-### 2. Agricultural Procurement & Supply Chain Analytics
+### 3. Agricultural Procurement & Supply Chain Analytics — Power BI
 
-Focus: 
-Procurement visibility, supplier analysis, and supply chain performance.
+A multi-table supply chain analytics project focused on procurement spending, supplier analysis, inventory value, orders, and delivery performance.
 
-This project explores how procurement and supply chain data can be structured to support purchasing decisions and operational reporting.
+Focus areas:
 
-Areas of focus:
-- Procurement data analysis
-- Supplier-related metrics
-- Purchasing and spending visibility
-- Delivery and supply chain performance indicators, where data is available
-- Power BI reporting and visualization
+- Procurement analytics
+- Supplier analysis
+- Inventory analysis
+- Order analysis
+- Delivery performance
+- Power BI data modeling
+- DAX
+- Interactive reporting
 
-Tools: 
-Power BI and the data preparation or analysis tools documented in the project.
+Repository:
 
-Project status: 
-Dashboard screenshots available. Project documentation and repository setup are pending.
+Coming soon.
 
 ## Technical Skills
 
-Tools and technologies are being developed and applied through individual projects.
+### Business Intelligence
+Power BI • DAX • Dashboard Development • Data Visualization • KPI Reporting
 
-Business Intelligence: Power BI
+### Data Analysis
+Excel • Power Query • SQL • Data Cleaning • Data Validation
 
-Data Analysis: Excel, SQL
+### Database Technology
+PostgreSQL • Relational Databases • Analytical Queries
 
-Database Technology: PostgreSQL
+### Version Control
+Git • GitHub
 
-Version Control: Git and GitHub
+### Developing Capabilities
+Python • Pandas • APIs • Workflow Automation • ERP Concepts • Modern Data Platforms
 
-Developing Skills: Python, Pandas, APIs, and workflow automation
-
-The tools used in each project will be documented according to the work actually completed.
-
-## Project Approach
+## Project Methodology
 
 Each project follows a practical workflow:
 
-Define the business problem.
+1. Define the business problem.
+2. Identify the relevant data and business requirements.
+3. Clean, organize, and validate the data.
+4. Build the required analytical structure.
+5. Perform business-focused analysis.
+6. Develop reports or dashboards where appropriate.
+7. Validate results and report behavior.
+8. Document findings and limitations.
+9. Translate findings into business recommendations.
+10. Identify future opportunities for automation or process improvement.
 
-Identify the relevant data and business requirements.
+## Long-Term Direction
 
-Clean, organize, and validate the available data.
+The Smart Farm Transformation initiative is intended to develop progressively from operational analytics toward broader transformation capabilities.
 
-Perform analysis using the appropriate tools.
+Future areas may include:
 
-Develop reports or dashboards where applicable.
-
-Document findings, limitations, and potential business recommendations.
-
-Identify opportunities for further improvement or automation.
-
-## Roadmap
-
-- Improve the documentation and organization of project repositories.
-- Document the Smart Farm Inventory Management project.
-- Document the Agricultural Procurement & Supply Chain Analytics project.
-- Expand SQL and PostgreSQL analysis.
-- Develop Python and Pandas skills for business data processing.
-- Explore APIs and workflow automation.
-- Investigate opportunities to connect analytical outputs with operational reporting.
-
+- Workflow automation
+- ERP systems
+- Data integration
+- Modern data platforms
+- Microsoft Fabric
+- Data governance
+- Process orchestration
+- Operational transformation architecture
 
 ## About This Repository
 
-This repository serves as the central overview of the Smart Farm Transformation initiative. Individual project repositories contain their own documentation, analysis, dashboards, and supporting files as applicable.
+This repository acts as the central overview of the Smart Farm Transformation initiative.
 
-The initiative is ongoing. Project descriptions, technical skills, findings, and implementation status will be updated as work progresses.
+Individual project repositories contain the detailed technical work, dashboards, SQL analysis, documentation, and supporting material for each project.
 
-## Project Themes: 
-Operations | Supply Chain | Inventory | Procurement | Business Analytics | Process Improvement
+The initiative is ongoing, with new analytical and transformation capabilities added as the work develops.
+
+## Project Themes
+
+Operations • Supply Chain • Inventory • Procurement • Business Analytics • Process Improvement • Automation • Transformation
